@@ -32,7 +32,7 @@
 <li>Vendo Sembiring</li> </td><td>(135610151)
 </td></tr>
 <td><tr>
-<li>Obet Edom Martinus</li> </td><td>(135610087)
+<li>Obet Edom Martinus fransiskus</li> </td><td>(135610087)
 </tr></table>
 </body>
 </html>
